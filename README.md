@@ -1,0 +1,1 @@
+# WordPress-Limit-Excerpt-Length
